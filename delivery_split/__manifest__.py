@@ -9,7 +9,7 @@
     'description' : '''
        This module helps to split Do based on sale order line's planned date.
     ''',
-    'summary': '''This module helps to split DO based on sale order line's planned date.'''
+    'summary': '''This module helps to split DO based on sale order line's planned date.''',
     'author': 'ODOO Gandhinagar/Trivedi',
     'depends': [
         'sale','sale_stock'
